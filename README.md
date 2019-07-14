@@ -10,3 +10,5 @@ Programs that need to be downloaded and added to PATH inorder to create family t
 3. Treetimme: https://github.com/neherlab/treetime.git
 
 4. BEAST2 and Beauti: https://www.beast2.org and https://github.com/CompEvol/beast2.git
+
+## Workflow
